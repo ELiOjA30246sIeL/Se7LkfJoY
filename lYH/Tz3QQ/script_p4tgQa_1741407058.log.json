@@ -1,6 +1,0 @@
-{
-    "reporter": ["lcovonly", "cobertura", "v8", "v8-json", "codecov"],
-    "src": "src",
-    "include": ["src/**", "built/local/**"],
-    "mergeAsync": true
-}
